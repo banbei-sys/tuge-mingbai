@@ -1,6 +1,7 @@
-# ✨ 图个明白
+# ✨ 图个明白 - 右键点击网页图片，一键生成中英双语 AI 绘图提示词
 
-> 右键点击网页图片，一键生成中英双语 AI 绘图提示词
+<img width="943" height="650" alt="Snipaste_2026-04-15_00-44-41" src="https://github.com/user-attachments/assets/17bac71d-a149-4888-bd96-f7abfa1b04ea" />
+
 
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-green)
