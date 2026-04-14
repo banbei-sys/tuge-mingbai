@@ -549,7 +549,7 @@ function renderLeft(panel, result, imageUrl, fromCache) {
       <div class="itp-card-syncing" id="itp-zh-sync"></div>
     </div>
     ${tags ? `<div class="itp-section"><div class="itp-section-label">关键词</div><div class="itp-tags">${tags}</div></div>` : ""}
-    <div style="margin-top:16px;font-size:10.5px;color:rgba(0,0,0,0.25);text-align:center;letter-spacing:0.01em;">基于 AI 技术，由 CHEN 设计开发</div>
+    <div style="margin-top:16px;font-size:10.5px;color:rgba(0,0,0,0.25);text-align:center;letter-spacing:0.01em;">基于 AI 技术，由 CHEN 设计开发 · Chrome 插件</div>
   `;
   left.scrollTop = 0;
 
